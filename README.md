@@ -71,24 +71,21 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 212223220026
  
 
- **PROGRAM**
- 
- ![312de 1](https://github.com/user-attachments/assets/9827d33f-2eaa-4341-8860-f7a97006e5df)
+ ## PROGRAM ##
+ ![EX 1 1](https://github.com/user-attachments/assets/c7a39a3d-e4eb-46ed-8d93-9b37269d4e30)
 
-**Logic symbol & Truthtable** 
+
+## Logic symbol & Truthtable ##
 
 ![de2](https://github.com/user-attachments/assets/0fc256e7-8271-4f24-a21d-87793ecd4b45)
 
-**RTL realization Output:** 
+## RTL realization Output: ##
+![EX 1 3](https://github.com/user-attachments/assets/fffae435-4397-40b0-9caa-079f67b23ae7)
 
-![de3](https://github.com/user-attachments/assets/cc61641e-3ebd-4216-9524-45bba80d49a5)
-
-**RTL**
-
+## RTL ##
 ![de4](https://github.com/user-attachments/assets/fc79cbcf-bb84-49e5-9c68-e8fd3b151ecf)
 
-**Result:**
-
+## Result: ##
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
